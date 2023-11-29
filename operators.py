@@ -1,7 +1,7 @@
 #Every Arithmetic Operator and their output
 
-a= 10
-b= 5
+a= int(input("Enter First number:"))
+b= int(input("Enter Second number:"))
 
 sum= a+b
 sub= a-b
