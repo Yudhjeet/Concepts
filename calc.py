@@ -1,7 +1,14 @@
 #This is a bsic calculator, which can perform 4 Arithmetic Operations, Add, Subtract, Multiply and Divide.
 #Note: It Does Not loop.
 
-print("Welcome to ⚡Northfy's Calculator, Be Sure to check out more of my work on my GitHub Profile, https://github.com/Yudhjeet \n")
+print(''' __     __        _ _     _           _   
+ \ \   / /       | | |   (_)         | |  
+  \ \_/ /   _  __| | |__  _  ___  ___| |_ 
+   \   / | | |/ _` | '_ \| |/ _ \/ _ \ __|
+    | || |_| | (_| | | | | |  __/  __/ |_ 
+    |_| \__,_|\__,_|_| |_| |\___|\___|\__|
+                        _/ |              
+                       |__/               \n \n  Be Sure to check out more of my work on my GitHub Profile, https://github.com/Yudhjeet \n''')
 
 num1= int(input("Enter First number:"))
 num2= int(input("Enter Second number:"))
