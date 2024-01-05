@@ -35,3 +35,4 @@ elif ch == '/': #Condition to check the input of ch, if /, print quotient variab
     print("Quotient:", quotient) 
 else: #Condition to check the input, if none of the options given, it prints :Incorrect Operator"..
     print("Incorrect Operator")
+
